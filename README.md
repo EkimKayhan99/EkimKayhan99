@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EkimKayhan99
+- 👀 I’m interested in Java, PHP and CSS
+- 🌱 I’m currently learning web developing.
+- 📫 How to reach me: ahmetturanvinnie@gmail.com
